@@ -1,0 +1,4 @@
+name = 0123-sample-test
+
+[expected]
+test = Sample test
